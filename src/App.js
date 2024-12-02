@@ -1,25 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'; // Import global styles
+import ProfileCard from './Components/Profile.Card';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+return (
+    <div>
+        <ProfileCard name="Safiya" age="19" occupation="Student" location="Karachi" />
     </div>
-  );
+);
 }
-
 export default App;
