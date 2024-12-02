@@ -1,0 +1,60 @@
+.my-card{
+    border: 2px solid rgb(209, 178, 178);
+    overflow: hidden;
+    
+    justify-content: center;
+    border-radius: 12px;
+    height:auto;
+    width: 300px;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+    padding-bottom: 12px;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+}
+my-card{
+    box-shadow: 12px 12px 0px;
+}
+.pic{
+    overflow: hidden;
+    width: 190px;
+    height: 200px;
+    /* border-bottom: 2px solid ; */
+    
+  }
+  .rating{
+    overflow: hidden;
+    width: 190px;
+    height: 50px;
+    /* border-top: 2px solid rgb(209, 178, 178);
+    border-bottom: 2px solid rgb(209, 178, 178); */
+
+  }
+  .button:hover {
+    background-color:rgb(207, 134, 173);
+    cursor: pointer;
+  }
+  .button{
+    padding: 7px;
+    color: azure;
+    background-color: rgb(209, 178, 178) ;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+    border-radius: 10px;
+    border-color: darksalmon;
+    padding-top: 10px;
+  }
+h2{
+    color:darksalmon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+color: darkgray;
+}
+hr{
+ color: rgb(209, 178, 178);
+}
