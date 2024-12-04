@@ -1,0 +1,25 @@
+.stats{
+    margin-left: 80px;
+    /* margin-right: 80px; */
+
+    margin-top: 60px; 
+    border:2px solid lightgray;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+   
+    width: 30%;
+  float: right;
+  background-color: darkgrey;
+  /* box-sizing: border-box; */
+  color:antiquewhite;
+  height:auto;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  box-shadow: 7px 7px 12px black;
+}
+.myimg{
+  height: 400px;
+  width: 600px;
+  overflow: hidden;
+}

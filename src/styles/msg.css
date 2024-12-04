@@ -1,0 +1,25 @@
+.msg{
+    margin-left: 100px;
+    
+    border:2px solid lightgray;
+    border-radius: 10px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+    width: 400px;
+    margin-top: 90px;
+  /* float: bottom; */
+  background-color: darkgrey;
+  /* box-sizing: border-box; */
+  color:antiquewhite;
+  float: right;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  box-shadow: 7px 7px 12px black;
+  padding: 30px;
+  transition: box-shadow 0.3s ease;
+}
+msg:hover {
+  box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.4); 
+}

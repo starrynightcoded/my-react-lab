@@ -1,0 +1,27 @@
+.user{
+    
+  background-image: url(https://img.lovepik.com/background/20211022/large/lovepik-simple-geometric-business-background-image_402009661.jpg);
+  border: 12px solid black;
+  overflow: hidden;
+  background-color: #f0f0f0;
+  box-shadow: 7px 7px 12px black;
+}
+.pic{
+   float: right; 
+   border: 2px solid lightgrey;
+    color: lightgrey;
+    padding-right:10px ;
+    padding-left:10px ;
+
+}
+.text{
+    border: 2px solid lightgrey;
+    color: lightgrey;
+    float: right;
+    padding-right: 30px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+    padding-left: 30px;
+
+}
