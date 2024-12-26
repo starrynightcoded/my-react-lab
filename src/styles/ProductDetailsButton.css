@@ -1,0 +1,30 @@
+button {
+    background-color: #002855; 
+    color: #FFC107; 
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  button:hover {
+    background-color: #00509E; 
+    color: white; 
+    transform: scale(1.05);
+  }
+  
+  button:active {
+    background-color: #004080; 
+    transform: scale(0.98); 
+  }
+  @media (max-width: 768px) {
+    button {
+      font-size: 14px;
+      padding: 10px 15px;
+    }
+  }
+  

@@ -1,0 +1,24 @@
+.home-container {
+    background-color: #f9f9f9; 
+    color: #002855; 
+    text-align: center;
+    padding: 50px 20px;
+    min-height: 100vh; 
+    background-image: url('https://img.freepik.com/premium-vector/light-blue-wide-background-with-radial-blurred-gradient-center-composition-abstract-illustration-wallpaper_480270-92.jpg');
+  }
+  .home-container h1 {
+    font-size: 2.5rem;
+    color: #002855; 
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  .home-container p {
+    font-size: 1.2rem;
+    color: #00509E; 
+    margin-bottom: 30px;
+  }
+  
+  .home-container .button-container {
+    margin-top: 20px;
+  }
+  
